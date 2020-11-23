@@ -26,29 +26,42 @@
   font-size: 13px;
   float:right;
   margin: -5px 10px;
-  margin-top: -190px;
+  margin-top: -193px;
   padding: 15px;
 }
 .top .top-right .image{
   margin-left: 15px;
+
 }
 .top .top-right .i{
+  vertical-align: middle;
   margin-left: 15px;
   width:18px;
+
+
 }
 .top .top-right .i:hover{
   filter:brightness(85%) grayscale(90%);
 }
 
 .top .top-right .connexion{
-
   background-color: #4285f4;
+  color: #fff;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 5px;
+  /* background-color: #4285f4; */
 /*  border: 2px solid blue; */
+/*
   margin-left: 15px;
   margin-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
   text-decoration: none;
   color: #fff;
-  outline: none;
+  outline: none; */
 }
 
 a{
